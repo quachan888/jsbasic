@@ -1,0 +1,30 @@
+var courses = [
+    { id: 1, name: "Javascript", coin: 0 },
+    { id: 2, name: "PHP", coin: 0 },
+    { id: 3, name: "React", coin: 500 },
+    { id: 4, name: "Angular", coin: 400 },
+];
+
+function courseHandleer(course, index) {
+    // console.log(course);
+    return {
+        id: course.id,
+        name: `Khoa hoc: ${course.name}`,
+        coin: course.coin,
+        conText: `Gia: ${course.coin}`,
+        index: index,
+        origin: course,
+    };
+}
+
+var newCourses = courses.map(courseHandleer);
+
+function courseName(course) {
+    return course.name;
+}
+
+var newCoursesName = courses.map(courseName);
+
+// console.log(courses);
+// console.log(newCourses);
+console.log(newCoursesName);
