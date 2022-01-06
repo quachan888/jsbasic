@@ -15,3 +15,4 @@
 -   [x] 59. Reduce method
 
 -   [x] 60. Array Reduce logic
+-   [x] 61. Includes method
