@@ -9,3 +9,7 @@
 ### 2022-01-04
 
 -   [x] Nucamp React - Week1 - Code Challenge: Objects
+
+### 2022-01-06
+
+-   [x] 59. Reduce method
