@@ -13,6 +13,6 @@
 ### 2022-01-06
 
 -   [x] 59. Reduce method
-
 -   [x] 60. Array Reduce logic
 -   [x] 61. Includes method
+-   [x] 62. Math
