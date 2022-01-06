@@ -16,3 +16,4 @@
 -   [x] 60. Array Reduce logic
 -   [x] 61. Includes method
 -   [x] 62. Math
+-   [x] 63. Callback
