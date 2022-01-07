@@ -17,3 +17,7 @@
 -   [x] 61. Includes method
 -   [x] 62. Math
 -   [x] 63. Callback
+
+### 2022-01-07
+
+-   [x] Nucamp React Week 1 Class inheritant
