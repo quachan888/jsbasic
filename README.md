@@ -21,3 +21,7 @@
 ### 2022-01-07
 
 -   [x] Nucamp React Week 1 Class inheritant
+
+### 2022-01-08
+
+-   [x] Coddinggame_array_loop
