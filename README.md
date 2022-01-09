@@ -25,3 +25,5 @@
 ### 2022-01-08
 
 -   [x] Coddinggame_array_loop
+-   [x] Coddinggame_scabble puzzle
+-   [x] fib
