@@ -27,3 +27,8 @@
 -   [x] Coddinggame_array_loop
 -   [x] Coddinggame_scabble puzzle
 -   [x] fib
+
+### 2021-01-09
+
+-   [x] canConstruct function
+-   [x] allConstruct function
