@@ -24,11 +24,25 @@
 
 ### 2022-01-08
 
+Coding Game
+Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges
+
 -   [x] Coddinggame_array_loop
 -   [x] Coddinggame_scabble puzzle
--   [x] fib
+-   [x] fib recursion
+-   [x] gridTravel recursion
 
 ### 2021-01-09
 
+Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges
+
 -   [x] canConstruct function
 -   [x] allConstruct function
+-   [x] fib with tabulation
+-   [x] gridTravel with tabulation
+-   [x] canSum with tabulation
+-   [x] howSum with tabulation
+-   [x] bestSum with tabulation
+-   [x] canConstruct tabulation
+-   [x] countConstruct tabulation
+-   [x] allConstruct tabulation
