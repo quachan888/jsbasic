@@ -46,3 +46,14 @@ Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges
 -   [x] canConstruct tabulation
 -   [x] countConstruct tabulation
 -   [x] allConstruct tabulation
+
+### 2021-01-10
+
+Back to NuCamp React W1 - Javascript
+
+-   [x] Reduce method
+-   [x] Map method
+-   [x] Filter method
+-   [x] camalize function
+-   [x] array filter function
+-   [x] array of objects
