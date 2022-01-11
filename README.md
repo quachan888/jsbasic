@@ -32,7 +32,7 @@ Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges
 -   [x] fib recursion
 -   [x] gridTravel recursion
 
-### 2021-01-09
+### 2022-01-09
 
 Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges
 
@@ -47,7 +47,7 @@ Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges
 -   [x] countConstruct tabulation
 -   [x] allConstruct tabulation
 
-### 2021-01-10
+### 2022-01-10
 
 Back to NuCamp React W1 - Javascript
 
@@ -57,3 +57,7 @@ Back to NuCamp React W1 - Javascript
 -   [x] camalize function
 -   [x] array filter function
 -   [x] array of objects
+
+### 2022-01-11
+
+-   [x] Array method practice
